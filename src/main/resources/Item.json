@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "description": "Laptop de última generación",
+        "price": 1200.00
+    },
+    {
+        "id": 2,
+        "name": "Smartphone",
+        "description": "Teléfono inteligente con cámara de alta resolución",
+        "price": 800.00
+    },
+    {
+        "id": 3,
+        "name": "Tablet",
+        "description": "Tableta con pantalla táctil de 10 pulgadas",
+        "price": 300.00
+    },
+    {
+        "id": 4,
+        "name": "Headphones",
+        "description": "Auriculares inalámbricos con cancelación de ruido",
+        "price": 150.00
+    },
+    {
+        "id": 5,
+        "name": "Smartwatch",
+        "description": "Reloj inteligente con seguimiento de actividad",
+        "price": 200.00
+    }
+]
